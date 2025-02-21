@@ -525,6 +525,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 			<!DOCTYPE html>
 			<html>
 				<head>
+                                        <link rel="icon" href="https://r2tuchuang.989458.xyz/PicGo/%E6%95%B0%E6%8D%AE.ico" type="image/png">
 					<title>${FileName} 订阅编辑</title>
 					<meta charset="utf-8">
 					<meta name="viewport" content="width=device-width, initial-scale=1">
